@@ -1,0 +1,242 @@
+[
+    {
+        "character_en": "Anthracnose.susceptibility.index",
+        "character_zh": "炭疽病感病指数",
+        "type_en": "disease.resistance",
+        "type_zh": "抗病性",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "C16.0",
+        "character_zh": "C16:0",
+        "type_en": "fatty.acid.composition",
+        "type_zh": "脂肪酸组成",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "C18.0",
+        "character_zh": "C18:0",
+        "type_en": "fatty.acid.composition",
+        "type_zh": "脂肪酸组成",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "C18.1",
+        "character_zh": "C18:1",
+        "type_en": "fatty.acid.composition",
+        "type_zh": "脂肪酸组成",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "C18.2",
+        "character_zh": "C18:2",
+        "type_en": "fatty.acid.composition",
+        "type_zh": "脂肪酸组成",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "C18.3",
+        "character_zh": "C18:3",
+        "type_en": "fatty.acid.composition",
+        "type_zh": "脂肪酸组成",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "C20.1",
+        "character_zh": "C20:1",
+        "type_en": "fatty.acid.composition",
+        "type_zh": "脂肪酸组成",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "fruit.diameter",
+        "character_zh": "果径",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "cm",
+        "data_class": "number"
+    },
+    {
+        "character_en": "fruit.height",
+        "character_zh": "果高",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "cm",
+        "data_class": "number"
+    },
+    {
+        "character_en": "fruit.oil.length",
+        "character_zh": "鲜果含油率",
+        "type_en": "oil.content",
+        "type_zh": "含油率",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "fruit.seed.rate",
+        "character_zh": "鲜果出籽率",
+        "type_en": "oil.content",
+        "type_zh": "含油率",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "fruit.shape",
+        "character_zh": "果实形状",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "",
+        "data_class": "text"
+    },
+    {
+        "character_en": "fruit.weight",
+        "character_zh": "单果重",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "g",
+        "data_class": "number"
+    },
+    {
+        "character_en": "kernel.oil.length",
+        "character_zh": "干仁含油率",
+        "type_en": "oil.content",
+        "type_zh": "含油率",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "leaf.color",
+        "character_zh": "叶色",
+        "type_en": "growth.characteristics",
+        "type_zh": "生长特性",
+        "character_unit": "",
+        "data_class": "text"
+    },
+    {
+        "character_en": "leaf.length",
+        "character_zh": "叶长",
+        "type_en": "growth.characteristics",
+        "type_zh": "生长特性",
+        "character_unit": "cm",
+        "data_class": "number"
+    },
+    {
+        "character_en": "leaf.width",
+        "character_zh": "叶最大宽",
+        "type_en": "growth.characteristics",
+        "type_zh": "生长特性",
+        "character_unit": "cm",
+        "data_class": "number"
+    },
+    {
+        "character_en": "net.photosynthetic.rate",
+        "character_zh": "净光合速率",
+        "type_en": "photosynthetic.properties",
+        "type_zh": "光合特性",
+        "character_unit": "",
+        "data_class": "number"
+    },
+    {
+        "character_en": "new.tip.diameter",
+        "character_zh": "新梢径",
+        "type_en": "growth.characteristics",
+        "type_zh": "生长特性",
+        "character_unit": "mm",
+        "data_class": "number"
+    },
+    {
+        "character_en": "new.tip.leaf.num",
+        "character_zh": "新梢叶数",
+        "type_en": "growth.characteristics",
+        "type_zh": "生长特性",
+        "character_unit": "",
+        "data_class": "number"
+    },
+    {
+        "character_en": "new.tip.length",
+        "character_zh": "新梢长",
+        "type_en": "growth.characteristics",
+        "type_zh": "生长特性",
+        "character_unit": "cm",
+        "data_class": "number"
+    },
+    {
+        "character_en": "pericarp.color",
+        "character_zh": "果皮颜色",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "",
+        "data_class": "text"
+    },
+    {
+        "character_en": "pericarp.thickness.m",
+        "character_zh": "果皮厚度-中",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "",
+        "data_class": "number"
+    },
+    {
+        "character_en": "seed.color",
+        "character_zh": "种皮颜色",
+        "type_en": "seed.characteristics",
+        "type_zh": "种子特性",
+        "character_unit": "",
+        "data_class": "text"
+    },
+    {
+        "character_en": "seed.kernel.rate",
+        "character_zh": "干籽出干仁率",
+        "type_en": "oil.content",
+        "type_zh": "含油率",
+        "character_unit": "%",
+        "data_class": "number"
+    },
+    {
+        "character_en": "seed.num",
+        "character_zh": "种子数",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "",
+        "data_class": "number"
+    },
+    {
+        "character_en": "seed.weight",
+        "character_zh": "单果鲜籽重",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "g",
+        "data_class": "number"
+    },
+    {
+        "character_en": "single.seed.weight",
+        "character_zh": "单籽重",
+        "type_en": "seed.characteristics",
+        "type_zh": "种子特性",
+        "character_unit": "g",
+        "data_class": "number"
+    },
+    {
+        "character_en": "SPAD",
+        "character_zh": "SPAD",
+        "type_en": "photosynthetic.properties",
+        "type_zh": "光合特性",
+        "character_unit": "",
+        "data_class": "number"
+    },
+    {
+        "character_en": "ventricular.num",
+        "character_zh": "心室数",
+        "type_en": "fruit.characteristics",
+        "type_zh": "果实特性",
+        "character_unit": "",
+        "data_class": "number"
+    }
+]

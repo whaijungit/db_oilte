@@ -1,0 +1,1 @@
+export { default as PhenoTypeTypes } from './PhenoTypeTypes.vue'
